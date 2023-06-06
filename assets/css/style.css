@@ -8,13 +8,13 @@
 }
 
   #cover-pic {
-    background-image: url(3e924cd8-cc53-4f1d-b0eb-e74771a3374b.png);
+    background-image: url(../assets/images/3e924cd8-cc53-4f1d-b0eb-e74771a3374b.png);
     height: 800px;
     width: 100%;
   }
 
   #witcher {
-    width: 300px;
-    height: 400px;
+    width: 100%;
+    height: 600px;
   
   }
