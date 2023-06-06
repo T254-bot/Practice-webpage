@@ -8,7 +8,13 @@
 }
 
   #cover-pic {
-    background-image: url(assets\css\images\3e924cd8-cc53-4f1d-b0eb-e74771a3374b.png);
+    background-image: url(3e924cd8-cc53-4f1d-b0eb-e74771a3374b.png);
     height: 800px;
     width: 100%;
+  }
+
+  img {
+    width: 100%;
+    height: 800px;
+     
   }
